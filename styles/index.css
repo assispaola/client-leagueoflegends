@@ -80,37 +80,3 @@ footer a:hover {
   color: white;
   
 }
-
-
-/* mobile version */
-@media (min-width: 300px) {
-  body {
-    background-color: #181818;
-    position: fixed;
-  }
-  
-    #bg {
-      width: 1%;
-      text-align: center;
-      height: 10%;
-      position: relative;
-      margin-right: 500px;
-    }
-  
-    #bg img {
-      width: 166vh;
-      display: flex;
-    }
-  
-  
-#jogar a {
-  font-size: 8vh;
-  margin: 2vh;
-  margin-top: 25vh;
-}
-
-#jogar a:hover {
-  font-size: 8vh;
-  margin: 2vh;
-  margin-top: 25vh;
-}
