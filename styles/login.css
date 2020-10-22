@@ -128,6 +128,35 @@ footer a {
 }
 
 footer a:hover {
-  color: white;
-  
+  color: white; 
 }
+
+
+
+/* mobile version */
+@media (min-width: 300px) {
+body {
+  background-color: #f9f9f9;
+}
+
+  #bg {
+    width: 95%;
+    height: 10%;
+  }
+
+  #bg img {
+    
+ 
+  }
+
+
+  #caixa {
+    width: 100%;
+    height: 1000px;
+    padding-right: 3rem;
+    position: relative;
+  }
+
+  #caixa img {
+   
+  }
